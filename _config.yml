@@ -1,4 +1,3 @@
 markdown: kramdown
-theme: jekyll-theme-cayman
-sass:
-  style: compressed
+theme: jekyll-theme-minima
+
