@@ -11,7 +11,7 @@ You should comment out all portions of your portfolio that you have not complete
 |:--:|:--:|:--:|:--:|
 | Tanmay P | Moreland Middle School | Aeronautical Engineering | 8th
 
-![Headstone Image](logo.heic)
+![Head Image](logo.heic)
 
 <!---
   
