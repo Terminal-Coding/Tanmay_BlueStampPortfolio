@@ -60,8 +60,10 @@ For your first milestone, describe what your project is and how you plan to buil
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pzsr6izySn8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 My Starter Projecr was an RGB Slider, below are some information on this slider.
-- The RGB Slider consists of 3 siders and 1 RGB LED, using each slider, it changes the color of the LED's red, green, or blue.
+- The RGB Slider consists of 3 siders and 3 LED's for each color, using each slider, it changes the color of the LED's red, green, or blue.
+- The slider changes the color by increasing and decreasing the resistance allowing less energy and power to pass through.
 - Some challenges which occured while making this project were having the sliders slip out of the PCB and putting on too much solder.
+- I will now begin my work on my smart walking stick
 
 <!---
 
