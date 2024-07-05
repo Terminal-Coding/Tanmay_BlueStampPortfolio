@@ -47,6 +47,34 @@ For your second milestone, explain what you've worked on since your previous mil
 
 Now, my smart walking stick's electronics portion is complete but with sensors, a buzzer, and a microcontroller all tied up together. How to perfectly solder the motor connections was another issue, managed by carefully re-soldering those parts. The next thing which I am going to do will be getting these prepared inside a prototype and have the software fine-tuned in such a way that it's going to detect the obstacles and alert accordingly.
 
+I used the following code:
+
+<pre><code class="language-c">
+#include &lt;Arduino.h&gt;
+
+const int sensorPin = A0;  // Sensor connected to analog pin A0
+const int buzzerPin = 9;   // Buzzer connected to digital pin 9
+
+void setup() {
+    pinMode(sensorPin, INPUT);
+    pinMode(buzzerPin, OUTPUT);
+    Serial.begin(9600);
+}
+
+void loop() {
+    int sensorValue = analogRead(sensorPin);
+    Serial.println(sensorValue);
+
+    if (sensorValue > 500) {
+        digitalWrite(buzzerPin, HIGH);
+    } else {
+        digitalWrite(buzzerPin, LOW);
+    }
+
+    delay(100);
+}
+</code></pre>
+
 
 # Starter Project
 
