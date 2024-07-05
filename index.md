@@ -43,8 +43,6 @@ For your second milestone, explain what you've worked on since your previous mil
 
 # First Milestone
 
-**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dfMKR5l6gR0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Now, my smart walking stick's electronics portion is complete but with sensors, a buzzer, and a microcontroller all tied up together. How to perfectly solder the motor connections was another issue, managed by carefully re-soldering those parts. The next thing which I am going to do will be getting these prepared inside a prototype and have the software fine-tuned in such a way that it's going to detect the obstacles and alert accordingly.
