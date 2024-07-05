@@ -1,6 +1,5 @@
 markdown: kramdown
 remote_theme: tuur29/pages-themes-cayman
-theme: jekyll-theme-cayman
 darkmode: true
 colors:
   gradient_left: "#0b4580"
