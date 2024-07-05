@@ -1,5 +1,4 @@
 # Smart Walking Stick
-test2
 
 <!---
 
