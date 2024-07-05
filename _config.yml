@@ -2,13 +2,9 @@ markdown: kramdown
 remote_theme: tuur29/pages-themes-cayman
 darkmode: true
 colors:
-  gradient_left: "#0b4580"
-  gradient_right: "#56a5f5"
-  header: "#FFF"
+  gradient_left: "#000000" # Black
+  gradient_right: "#333333" # Dark Gray
+  header: "#FFF" # White header
   android_theme: "#346ba3"
   link: "#1e6bb8"
-  section_title: "#1e6bb8"
-
-# Include custom CSS
-include:
-  - custom.css
+  section_title: "#FFF" # White section titles
