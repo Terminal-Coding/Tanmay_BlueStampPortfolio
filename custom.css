@@ -1,10 +1,11 @@
 /* custom.css */
-h1, h2, h3, h4, h5, h6 {
-    color: #FFF !important; /* Force white color for all titles */
+body {
+    background: linear-gradient(to right, #000000, #333333) !important; /* Black to dark gray gradient background */
+    color: #FFF; /* Ensure text color is readable on dark background */
 }
 
-body {
-    background: linear-gradient(to right, #000000, #333333); /* Black to dark gray gradient background */
+h1, h2, h3, h4, h5, h6 {
+    color: #FFF !important; /* Force white color for all titles */
 }
 
 .site-title, .site-description {
