@@ -28,7 +28,6 @@ For your final milestone, explain the outcome of your project. Key details to in
 - A summary of key topics you learned about
 - What you hope to learn in the future after everything you've learned at BSE
 
--->
 
 # Second Milestone
 
@@ -40,31 +39,22 @@ For your second milestone, explain what you've worked on since your previous mil
 - Previous challenges you faced that you overcame
 - What needs to be completed before your final milestone 
 
-<!---
+-->
 
 # First Milestone
 
 **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CaCazFBhYKs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dfMKR5l6gR0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-For your first milestone, describe what your project is and how you plan to build it. You can include:
-- An explanation about the different components of your project and how they will all integrate together
-- Technical progress you've made so far
-- Challenges you're facing and solving in your future milestones
-- What your plan is to complete your project
+Now, my smart walking stick's electronics portion is complete but with sensors, a buzzer, and a microcontroller all tied up together. How to perfectly solder the motor connections was another issue, managed by carefully re-soldering those parts. The next thing which I am going to do will be getting these prepared inside a prototype and have the software fine-tuned in such a way that it's going to detect the obstacles and alert accordingly.
 
--->
 
 # Starter Project
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pzsr6izySn8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-My Starter Projecr was an RGB Slider, below are some information on this slider.
-- The RGB Slider consists of 3 siders and 3 LED's for each color, using each slider, it changes the color of the LED's red, green, or blue.
-- The slider changes the color by increasing and decreasing the resistance allowing less energy and power to pass through.
-- Some challenges which occured while making this project were having the sliders slip out of the PCB and putting on too much solder.
-- I will now begin my work on my smart walking stick
+My starter project was the RGB Slider. This project included three sliders and three LEDs belonging to red, green, and blue colors. Sliders, when moved, change the color of the LEDs. The slider raises or lowers resistance to drive the amount of energy and power flowing to a circuit. During the development of the project, there were some mishaps—I remember one time when the sliders slid out from the PCB and another time applying way too much solder. Having faced and overcome all those obstacles, I am getting ready to work on my next project—a smart walking stick.
 
 <!---
 
