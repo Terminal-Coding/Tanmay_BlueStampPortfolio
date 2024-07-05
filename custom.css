@@ -1,9 +1,27 @@
 /* custom.css */
+
+/* Gradient for the top of the page */
 body {
-    background: linear-gradient(to right, #000000, #333333) !important; /* Black to dark gray gradient background */
+    background: linear-gradient(to bottom, #000000 0%, #333333 100%) !important; /* Black to dark gray gradient background */
     color: #FFF; /* Ensure text color is readable on dark background */
+    margin: 0;
+    padding: 0;
 }
 
+/* Ensure the content area has a background color */
+.main-content {
+    background: #000000; /* Black background for the main content area */
+    color: #FFF; /* Ensure text color is readable */
+    padding: 2em; /* Add some padding for better readability */
+}
+
+/* Dark gray background for the bottom section (footer) */
+footer {
+    background: #333333; /* Dark gray for the bottom section */
+    color: #FFF; /* Ensure footer text is white */
+}
+
+/* White color for all titles */
 h1, h2, h3, h4, h5, h6 {
     color: #FFF !important; /* Force white color for all titles */
 }
