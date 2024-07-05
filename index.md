@@ -1,6 +1,5 @@
 # Smart Walking Stick
 test
-<link rel="stylesheet" href="{{ '/custom.css' | relative_url }}">
 
 <!---
 
