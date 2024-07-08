@@ -35,7 +35,7 @@ For your final milestone, explain the outcome of your project. Key details to in
 
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=dfMKR5l6gR0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-My smart walkinging stick now has all of it's hardware complete. To get here I had to get drill trained and make a custom 3d box. I used the drill to drill into the cane aswell as the box so that they could be attached. The reason I made this box was so that I could 3d printer.
+My smart walking stick now has all of its hardware complete. To get here, I had to get drill-trained and make a custom 3D box. I used the drill to drill into the cane as well as the box so that they could be attached. The reason I made this box was so that I could 3D print.
 
 -->
 
