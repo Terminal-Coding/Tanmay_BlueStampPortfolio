@@ -43,7 +43,7 @@ For your final milestone, explain the outcome of your project. Key details to in
 
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=dfMKR5l6gR0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-My smart walking stick now has all of its hardware complete. To get here, I had to get drill-trained and make a custom 3D box. I used the drill to drill into the cane as well as the box so that they could be attached. The reason I made this box was so that I could 3D print.
+My smart walking stick now has all of its hardware complete. To get here, I had to get drill-trained and make a custom 3D box. I used the drill to drill into the cane as well as the box so that they could be attached. The reason I made this box was so that I could 3D print. A challenge that came was finding the right screw for the box to attach to
 
 -->
 
@@ -99,9 +99,11 @@ Don't forget to place the link of where to buy each component inside the quotati
 
 | **Part** | **Note** | **Price** | **Link** |
 |:--:|:--:|:--:|:--:|
-| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
-| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
-| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
+| Arduino Uno| Controls all inputs and outputs | $27 | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
+| Buzzer| Provides sound for the user to hear | $0.95 | <a href="https://www.adafruit.com/product/1536?gad_source=1&gclid=CjwKCAjw4ri0BhAvEiwA8oo6Fxwn3jKEl9qArXyle2q9GgFVSOuGYgxT8sPOZ8GS1q-iavJMe7XK8RoCrdsQAvD_BwE/"> Link </a> |
+| Vibration motor | Provides vibration for user to feel | $8 | <a href="hhttps://www.amazon.com/uxcell-a11101800ux0165-1100RPM-Speed-Vibration/dp/B0087Y95X4"> Link </a> |
+| Cane | For the user to grab and hold | $14 | <a href="https://www.homedepot.com/p/DMI-Deluxe-Adjustable-Foot-Cane-with-Offset-Foam-Grip-in-Black-502-1304-0255/204652972?source=shoppingads&locale=en-US&srsltid=AfmBOorhX83EwS5XUpGJGjpv062Aeth-qALnwaV2xnqj2bhnECprqG07ypU"> Link </a> |
+| Toggle Switch| Saves battery and allows device  to be turned on and off (bought in packs of 10) | $8 | <a href="[https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/](https://www.amazon.com/Twidec-Pre-soldered-Wires%EF%BC%88Quality-Assurance-Years%EF%BC%89KCD1-3-101-X/dp/B07SPY9H7Y/ref=asc_df_B07SPY9H7Y/?tag=hyprod-20&linkCode=df0&hvadid=692875362841&hvpos=&hvnetw=g&hvrand=8252835168938717860&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032183&hvtargid=pla-2281435178818&psc=1&mcid=8cd80d0c1e403c4dacfe7c2d4edfcf39&hvocijid=8252835168938717860-B07SPY9H7Y-&hvexpln=73&gad_source=1)"> Link </a> |
 
 # Other Resources/Examples
 One of the best parts about Github is that you can view how other people set up their own work. Here are some past BSE portfolios that are awesome examples. You can view how they set up their portfolio, and you can view their index.md files to understand how they implemented different portfolio components.
