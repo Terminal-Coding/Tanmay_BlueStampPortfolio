@@ -55,8 +55,8 @@ My smart walking stick's electronics are now finished. There is an ultra-sonic s
 
 I used the following code:
 
-<pre><code class="language-c">
-#include &lt;Arduino.h&gt;
+```c
+#include <Arduino.h>
 
 const int sensorPin = A0;  // Sensor connected to analog pin A0
 const int buzzerPin = 9;   // Buzzer connected to digital pin 9
@@ -71,15 +71,14 @@ void loop() {
     int sensorValue = analogRead(sensorPin);
     Serial.println(sensorValue);
 
-    if (sensorValue > 500) {
-        digitalWrite(buzzerPin, HIGH);
+    if (sensorValue > 500) {  // Threshold value for light intensity
+        digitalWrite(buzzerPin, HIGH);  // Turn buzzer on
     } else {
-        digitalWrite(buzzerPin, LOW);
+        digitalWrite(buzzerPin, LOW);  // Turn buzzer off
     }
 
-    delay(100);
+    delay(100);  // Delay for stability
 }
-</code></pre>
 
 
 # Starter Project
