@@ -80,6 +80,7 @@ void loop() {
     delay(100);  // Delay for stability
 }
 
+```
 
 # Starter Project
 
@@ -92,37 +93,7 @@ My starter project was the RGB Slider. This project included three sliders and t
 # Schematics 
 Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. 
 
-# Code
-Here's where you'll put your code. The syntax below places it into a block of code. Follow the guide [here]([url](https://www.markdownguide.org/extended-syntax/)) to learn how to customize it to your project needs. 
-
 -->
-
-```c++
-#include <Arduino.h>
-
-const int sensorPin = A0;  // Sensor connected to analog pin A0
-const int buzzerPin = 9;   // Buzzer connected to digital pin 9
-
-void setup() {
-    pinMode(sensorPin, INPUT);
-    pinMode(buzzerPin, OUTPUT);
-    Serial.begin(9600);
-}
-
-void loop() {
-    int sensorValue = analogRead(sensorPin);
-    Serial.println(sensorValue);
-
-    if (sensorValue > 500) {  // Threshold value for light intensity
-        digitalWrite(buzzerPin, HIGH);  // Turn buzzer on
-    } else {
-        digitalWrite(buzzerPin, LOW);  // Turn buzzer off
-    }
-
-    delay(100);  // Delay for stability
-}
-
-```
 
 # Bill of Materials
 Here's where you'll list the parts in your project. To add more rows, just copy and paste the example rows below.
