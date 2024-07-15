@@ -41,6 +41,8 @@ For your final milestone, explain the outcome of your project. Key details to in
 
 -->
 
+<img src="Screenshot 2024-07-15 at 3.31.00 PM.png" width="100%">
+
 # Second Milestone
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Xn5Wfhhhtow" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
