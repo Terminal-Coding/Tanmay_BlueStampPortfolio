@@ -46,6 +46,8 @@ For your final milestone, explain the outcome of your project. Key details to in
 
 My smart walking stick now has all of its hardware complete. To get here, I had to get drill-trained and make a custom 3D box. I used the drill to drill into the cane as well as the box so that they could be attached. The reason I made this box was so that I could put all the electronics inside. A challenge that came was finding the right screw for the box to attach to, it took me a lot of time as I needed something very thing as well as decently long. However if it was thin and long it could block the electronics so finding something perfect took a long time. Another challenge was the box tilting to the side, to solve this I added tape, in the future I plan to either add another bolt or hot glue. The next thing I will do is put all the eloctronics in the box and make everything usable. 
 
+<img src="Dazzling Turing.png" width="50%">
+
 # First Milestone
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dfMKR5l6gR0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -81,6 +83,14 @@ void loop() {
 
 ```
 
+| **Part** | **Note** | **Price** | **Link** |
+|:--:|:--:|:--:|:--:|
+| Arduino Uno| Controls all inputs and outputs | $27 | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
+| Buzzer| Provides sound for the user to hear | $0.95 | <a href="https://www.adafruit.com/product/1536?gad_source=1&gclid=CjwKCAjw4ri0BhAvEiwA8oo6Fxwn3jKEl9qArXyle2q9GgFVSOuGYgxT8sPOZ8GS1q-iavJMe7XK8RoCrdsQAvD_BwE/"> Link </a> |
+| Vibration motor | Provides vibration for user to feel | $8 | <a href="hhttps://www.amazon.com/uxcell-a11101800ux0165-1100RPM-Speed-Vibration/dp/B0087Y95X4"> Link </a> |
+| Cane | For the user to grab and hold | $14 | <a href="https://www.homedepot.com/p/DMI-Deluxe-Adjustable-Foot-Cane-with-Offset-Foam-Grip-in-Black-502-1304-0255/204652972?source=shoppingads&locale=en-US&srsltid=AfmBOorhX83EwS5XUpGJGjpv062Aeth-qALnwaV2xnqj2bhnECprqG07ypU"> Link </a> |
+| Toggle Switch| Saves battery and allows device  to be turned on and off (bought in packs of 10) | $8 | <a href="[https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/](https://www.amazon.com/Twidec-Pre-soldered-Wires%EF%BC%88Quality-Assurance-Years%EF%BC%89KCD1-3-101-X/dp/B07SPY9H7Y/ref=asc_df_B07SPY9H7Y/?tag=hyprod-20&linkCode=df0&hvadid=692875362841&hvpos=&hvnetw=g&hvrand=8252835168938717860&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032183&hvtargid=pla-2281435178818&psc=1&mcid=8cd80d0c1e403c4dacfe7c2d4edfcf39&hvocijid=8252835168938717860-B07SPY9H7Y-&hvexpln=73&gad_source=1)"> Link </a> |
+
 # Starter Project
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pzsr6izySn8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -95,16 +105,6 @@ Here's where you'll put images of your schematics. [Tinkercad](https://www.tinke
 # Bill of Materials
 Here's where you'll list the parts in your project. To add more rows, just copy and paste the example rows below.
 Don't forget to place the link of where to buy each component inside the quotation marks in the corresponding row after href =. Follow the guide [here]([url](https://www.markdownguide.org/extended-syntax/)) to learn how to customize this to your project needs. 
-
--->
-
-| **Part** | **Note** | **Price** | **Link** |
-|:--:|:--:|:--:|:--:|
-| Arduino Uno| Controls all inputs and outputs | $27 | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
-| Buzzer| Provides sound for the user to hear | $0.95 | <a href="https://www.adafruit.com/product/1536?gad_source=1&gclid=CjwKCAjw4ri0BhAvEiwA8oo6Fxwn3jKEl9qArXyle2q9GgFVSOuGYgxT8sPOZ8GS1q-iavJMe7XK8RoCrdsQAvD_BwE/"> Link </a> |
-| Vibration motor | Provides vibration for user to feel | $8 | <a href="hhttps://www.amazon.com/uxcell-a11101800ux0165-1100RPM-Speed-Vibration/dp/B0087Y95X4"> Link </a> |
-| Cane | For the user to grab and hold | $14 | <a href="https://www.homedepot.com/p/DMI-Deluxe-Adjustable-Foot-Cane-with-Offset-Foam-Grip-in-Black-502-1304-0255/204652972?source=shoppingads&locale=en-US&srsltid=AfmBOorhX83EwS5XUpGJGjpv062Aeth-qALnwaV2xnqj2bhnECprqG07ypU"> Link </a> |
-| Toggle Switch| Saves battery and allows device  to be turned on and off (bought in packs of 10) | $8 | <a href="[https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/](https://www.amazon.com/Twidec-Pre-soldered-Wires%EF%BC%88Quality-Assurance-Years%EF%BC%89KCD1-3-101-X/dp/B07SPY9H7Y/ref=asc_df_B07SPY9H7Y/?tag=hyprod-20&linkCode=df0&hvadid=692875362841&hvpos=&hvnetw=g&hvrand=8252835168938717860&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032183&hvtargid=pla-2281435178818&psc=1&mcid=8cd80d0c1e403c4dacfe7c2d4edfcf39&hvocijid=8252835168938717860-B07SPY9H7Y-&hvexpln=73&gad_source=1)"> Link </a> |
 
 <!---
 
