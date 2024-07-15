@@ -17,6 +17,7 @@ You should comment out all portions of your portfolio that you have not complete
 
 <img src="Tanmay_P.png" width="50%">
 
+<!---
 
 # Modifications
 
