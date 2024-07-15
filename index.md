@@ -23,7 +23,7 @@ You should comment out all portions of your portfolio that you have not complete
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F7M7imOVGug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-For vmy smart walking sticks modifications I did a toggle switch and !¡!¡!¡!¡ . Some challenges and problems I encountered while making this were that, one, there weren't enough grounds, to solve this, I created a splitter which basically splits the grounds powers with the toggle switch and buzzer.  Another problem I encountered was the toggle switch randomly going off, after a bit of searching, I was able to find that the issue was with the how the toggle switch's wire was connected, it was very thin and short, to fix this, I cut a male-male wire and soldered both the wires together so it would connect better.
+For my smart walking sticks modifications I did a toggle switch and !¡!¡!¡!¡ . Some challenges and problems I encountered while making this were that, one, there weren't enough grounds, to solve this, I created a splitter which basically splits the grounds powers with the toggle switch and buzzer.  Another problem I encountered was the toggle switch randomly going off, after a bit of searching, I was able to find that the issue was with the how the toggle switch's wire was connected, it was very thin and short, to fix this, I cut a male-male wire and soldered both the wires together so it would connect better.
 
   
 # Final Milestone
@@ -31,7 +31,7 @@ For vmy smart walking sticks modifications I did a toggle switch and !¡!¡!¡!�
 **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F7M7imOVGug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
+ 
 For your final milestone, explain the outcome of your project. Key details to include are:
 - What you've accomplished since your previous milestone
 - What your biggest challenges and triumphs were at BSE
