@@ -15,7 +15,7 @@ You should comment out all portions of your portfolio that you have not complete
 | Tanmay P | Moreland Middle School | Aeronautical Engineering | Upcoming 8th Grader
 
 
-<img src="Tanmay_P.png" width="100%">
+<img src="Tanmay_P.png" width="50%">
 
 <!---
 
@@ -47,7 +47,7 @@ For your final milestone, explain the outcome of your project. Key details to in
 
 My smart walking stick now has all of its hardware complete. To get here, I had to get drill-trained and make a custom 3D box. I used the drill to drill into the cane as well as the box so that they could be attached. The reason I made this box was so that I could put all the electronics inside. A challenge that came was finding the right screw for the box to attach to, it took me a lot of time as I needed something very thing as well as decently long. However if it was thin and long it could block the electronics so finding something perfect took a long time. Another challenge was the box tilting to the side, to solve this I added tape, in the future I plan to either add another bolt or hot glue. The next thing I will do is put all the eloctronics in the box and make everything usable. 
 
-<img src="Dazzling Turing.png" width="50%">
+<img src="Dazzling Turing.png" width="100%">
 
 # First Milestone
 
