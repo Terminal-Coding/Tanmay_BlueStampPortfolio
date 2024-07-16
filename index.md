@@ -55,7 +55,7 @@ My smart walking stick now has all of its hardware complete. To get here, I had 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dfMKR5l6gR0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-My smart walking stick's electronics are now finished. There is an ultra-sonic sensor, buzzer, and vibration motor. The motor is connected to a solderable breadboard, which then connects to a male-male wire going to the Aurduino; the buzzer has two female-male wires going directly to the Aurduino; and the Ultra Sonci snesors are connected to a breadboard and four more male-male wires leading to the Aurduino. Soldering the motor connections was my main issue. It took me roughly 30 minutes, and I had to be very precise and couldn't touch other metals or it would cause a short circuit. The next thing I am going to do is get a box and attach it to the cane.
+My smart walking stick's electronics are now finished. There is an ultra-sonic sensor, buzzer, and vibration motor. The motor is connected to a solderable breadboard, which then connects to a male-male wire going to the Aurduino; the buzzer has two female-male wires going directly to the Aurduino; and the Ultra Soncic snesors are connected to a breadboard and four more male-male wires leading to the Aurduino. Soldering the motor connections was my main issue. It took me roughly 30 minutes, and I had to be very precise and couldn't touch other metals or it would cause a short circuit. The next thing I am going to do is get a box and attach it to the cane.
 
 I used the following code:
 
