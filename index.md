@@ -37,6 +37,8 @@ For your final milestone, explain the outcome of your project. Key details to in
 - A summary of key topics you learned about
 - What you hope to learn in the future after everything you've learned at BSE
 
+For my final milestone I decided to reprint the box with a clip to prevent tilting, as this was a large problem. I've also put all the electronics inside this new box and have gotten everything to work. My biggest challenges while making this project were my vibration motor pulling itself out and my box rotating or being unstable. The best part when I was making this project was when I got the electronics working, it was so cool to see everything work in synchrony. Some of the most important things I learned while making this project was how to solder, how aurdinos work,, and how breadboards work. I hope to learn how I can use all of this to provide input to a device so that I can make larger things.
+
 -->
 
 <img src="Screenshot 2024-07-15 at 3.31.00 PM.png" width="100%">
