@@ -41,6 +41,8 @@ For my final milestone I decided to reprint the box with a clip to prevent tilti
 
 -->
 
+  ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯ 
+
 <img src="Screenshot 2024-07-15 at 3.31.00 PM.png" width="100%">
 
 # Second Milestone
@@ -86,6 +88,8 @@ void loop() {
 
 ```
 
+  ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯ 
+
 | **Part** | **Note** | **Price** | **Link** |
 |:--:|:--:|:--:|:--:|
 | Arduino Uno| Controls all inputs and outputs | $27 | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
@@ -93,6 +97,8 @@ void loop() {
 | Vibration motor | Provides vibration for user to feel | $8 | <a href="hhttps://www.amazon.com/uxcell-a11101800ux0165-1100RPM-Speed-Vibration/dp/B0087Y95X4"> Link </a> |
 | Cane | For the user to grab and hold | $14 | <a href="https://www.homedepot.com/p/DMI-Deluxe-Adjustable-Foot-Cane-with-Offset-Foam-Grip-in-Black-502-1304-0255/204652972?source=shoppingads&locale=en-US&srsltid=AfmBOorhX83EwS5XUpGJGjpv062Aeth-qALnwaV2xnqj2bhnECprqG07ypU"> Link </a> |
 | Toggle Switch| Saves battery and allows device  to be turned on and off (bought in packs of 10) | $8 | <a href="[https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/](https://www.amazon.com/Twidec-Pre-soldered-Wires%EF%BC%88Quality-Assurance-Years%EF%BC%89KCD1-3-101-X/dp/B07SPY9H7Y/ref=asc_df_B07SPY9H7Y/?tag=hyprod-20&linkCode=df0&hvadid=692875362841&hvpos=&hvnetw=g&hvrand=8252835168938717860&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032183&hvtargid=pla-2281435178818&psc=1&mcid=8cd80d0c1e403c4dacfe7c2d4edfcf39&hvocijid=8252835168938717860-B07SPY9H7Y-&hvexpln=73&gad_source=1)"> Link </a> |
+
+  ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯ 
 
 # Starter Project
 
