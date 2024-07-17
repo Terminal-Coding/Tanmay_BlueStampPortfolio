@@ -17,29 +17,17 @@ You should comment out all portions of your portfolio that you have not complete
 
 <img src="Tanmay_P (1).png" width="50%">
 
-<!---
-
 # Modifications
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/F7M7imOVGug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="1112" height="626" src="https://www.youtube.com/embed/iDul3ShxJnI" title="Tanmay P. Modification" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 For my smart walking sticks modifications I did a toggle switch and also added an LED for people to see that someone is there  . Some challenges and problems I encountered while making this were that, one, there weren't enough grounds, to solve this, I created a splitter which basically splits the grounds powers with the toggle switch and buzzer.  Another problem I encountered was the toggle switch randomly going off, after a bit of searching, I was able to find that the issue was with the how the toggle switch's wire was connected, it was very thin and short, to fix this, I cut a male-male wire and soldered both the wires together so it would connect better.
-
-<!--
   
 # Final Milestone
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/F7M7imOVGug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
- 
-For your final milestone, explain the outcome of your project. Key details to include are:
-- What you've accomplished since your previous milestone
-- What your biggest challenges and triumphs were at BSE
-- A summary of key topics you learned about
-- What you hope to learn in the future after everything you've learned at BSE
+<iframe width="1112" height="626" src="https://www.youtube.com/embed/q_oz9_FpRx4" title="Tanmay P. Final Milestone" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 For my final milestone I decided to reprint the box with a clip to prevent tilting, as this was a large problem. I've also put all the electronics inside this new box and have gotten everything to work. My biggest challenges while making this project were my vibration motor pulling itself out and my box rotating or being unstable. The best part when I was making this project was when I got the electronics working, it was so cool to see everything work in synchrony. Some of the most important things I learned while making this project was how to solder, how aurdinos work,, and how breadboards work. I hope to learn how I can use all of this to provide input to a device so that I can make larger things.
-
--->
 
   ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯ 
 
